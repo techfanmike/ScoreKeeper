@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="string_away">Away</string>
+    <string name="string_home">Home</string>
+    <string name="string_td">Touchdown</string>
+    <string name="string_xp">Xtra Point</string>
+    <string name="string_fg">Field Goal</string>
+    <string name="string_sf">Safety</string>
+    <string name="string_reset">Reset Scores to Zero</string>
+</resources>
